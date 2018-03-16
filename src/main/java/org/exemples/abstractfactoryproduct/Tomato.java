@@ -1,4 +1,4 @@
-package org.exemples.abstractfactory;
+package org.exemples.abstractfactoryproduct;
 
 public class Tomato extends ProductA {
 

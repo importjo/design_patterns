@@ -1,6 +1,9 @@
-package org.exemples.abstractfactory;
+package org.exemples.abstractfactoryproduct;
 
 import static org.junit.jupiter.api.Assertions.*;
+
+import org.exemples.abstractfactoryproduct.AbstractProductA;
+import org.exemples.abstractfactoryproduct.Tomato;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
