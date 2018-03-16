@@ -1,6 +1,7 @@
-package org.exemples.abstractfactory;
+package org.exemples.abstractfactoryproduct;
 
-public class Product {
+public class ProductBehavior {
+	
 	public String getContentOfProduct(Object product) throws Exception {
 		if (product instanceof AbstractProductA) {
 			ProductA pA = (ProductA) product;
